@@ -1,0 +1,52 @@
+_repo: Onnellinen-pari_73045
+_version: 0.0.1
+alternative_title: Ett lyckligt parti. Finnish
+contributor:
+  translator:
+    agent_name: Piirinen, Hanna
+    aliases:
+    - Piirinen, Hanna Ottilia
+    - Aronaho, Onni
+    - Saarenpää, Simo
+    - Saarenpaa, Simo
+    birthdate: 1881
+    deathdate: 1955
+    gutenberg_agent_id: '56926'
+    url: http://www.gutenberg.org/2009/agents/56926
+    wikipedia: https://fi.wikipedia.org/wiki/Hanna_Piirinen
+creator:
+  author:
+    agent_name: Flygare-Carlén, Emilie
+    aliases:
+    - Flygare-Carlen, Emilie (Smith)
+    - Carlén, Emilie Schmidt
+    - Flygare, Emilie
+    - Carlénová, Emilie Flygaré
+    - Carlenova, Emilie Flygare
+    birthdate: 1807
+    deathdate: 1892
+    gutenberg_agent_id: '6695'
+    url: http://www.gutenberg.org/2009/agents/6695
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Emilie_Flygare-Carl%C3%A9n
+    - https://sv.wikipedia.org/wiki/Emilie_Flygare-Carl%C3%A9n
+description: ''
+gutenberg_issued: '2024-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73045'
+language: fi
+pgterms:marc905: 20160611055330flygarecar
+pgterms:marc906: '1917'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bKust.Oy Kirja, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: Onnellinen pari
+url: http://www.gutenberg.org/ebooks/73045
